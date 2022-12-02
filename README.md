@@ -1,7 +1,6 @@
 # Damiano Fusco
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=damianof&labels=true"
-/>
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=damianof&width=400" />
 
 ## Website:
 [https://www.damianofusco.com/](https://www.damianofusco.com/)
